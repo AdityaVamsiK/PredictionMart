@@ -9,6 +9,8 @@ import sys
 import subprocess
 import platform
 
+# Hello World
+
 def run_command(command, description):
     """Run a command and handle errors"""
     print(f"🔄 {description}...")
